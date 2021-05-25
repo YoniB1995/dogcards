@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dogcards/static/css/main.96c8e5cf.chunk.css",
+    "main.js": "/dogcards/static/js/main.e08f26e3.chunk.js",
+    "main.js.map": "/dogcards/static/js/main.e08f26e3.chunk.js.map",
+    "runtime-main.js": "/dogcards/static/js/runtime-main.3c49d8fd.js",
+    "runtime-main.js.map": "/dogcards/static/js/runtime-main.3c49d8fd.js.map",
+    "static/js/2.1fb64c0d.chunk.js": "/dogcards/static/js/2.1fb64c0d.chunk.js",
+    "static/js/2.1fb64c0d.chunk.js.map": "/dogcards/static/js/2.1fb64c0d.chunk.js.map",
+    "static/js/3.8d9d0cf9.chunk.js": "/dogcards/static/js/3.8d9d0cf9.chunk.js",
+    "static/js/3.8d9d0cf9.chunk.js.map": "/dogcards/static/js/3.8d9d0cf9.chunk.js.map",
+    "index.html": "/dogcards/index.html",
+    "static/css/main.96c8e5cf.chunk.css.map": "/dogcards/static/css/main.96c8e5cf.chunk.css.map",
+    "static/js/2.1fb64c0d.chunk.js.LICENSE.txt": "/dogcards/static/js/2.1fb64c0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c49d8fd.js",
+    "static/js/2.1fb64c0d.chunk.js",
+    "static/css/main.96c8e5cf.chunk.css",
+    "static/js/main.e08f26e3.chunk.js"
+  ]
+}
